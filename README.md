@@ -50,3 +50,79 @@ The Excel dashboard includes:
 
 Data Generation → Data Cleaning → SQL Analysis → Pivot Tables → Dashboard Visualization
 
+
+
+sales-analysis-project
+
+│
+
+├── README.md
+
+├── requirements.txt
+
+│
+
+├── assets
+
+│   └── dashboard.png
+
+│
+
+├── data
+
+│   ├── raw
+
+│   │   └── sales\_raw\_generated.csv
+
+│   │
+
+│   └── cleaned
+
+│       ├── orders\_cleaned.csv
+
+│       ├── customers\_cleaned.csv
+
+│       ├── products\_cleaned.csv
+
+│       └── calendar\_cleaned.csv
+
+│
+
+├── python
+
+│   ├── data\_generation.ipynb
+
+│   ├── data\_cleaning.ipynb
+
+│   └── exploratory\_analysis.ipynb
+
+│
+
+├── sql
+
+│   ├── create\_tables.sql
+
+│   ├── joins\_analysis.sql
+
+│   ├── revenue\_trends.sql
+
+│   ├── top\_products.sql
+
+│   └── customer\_analysis.sql
+
+│
+
+├── excel
+
+│   ├── sales\_dashboard.xlsx
+
+│   └── pivot\_analysis.xlsx
+
+│
+
+└── docs
+
+&nbsp;   ├── business\_questions.md
+
+&nbsp;   └── insights\_summary.md
+
