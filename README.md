@@ -50,3 +50,20 @@ The Excel dashboard includes:
 
 Data Generation → Data Cleaning → SQL Analysis → Pivot Tables → Dashboard Visualization
 
+sales-analysis-project
+│
+├── data
+│   ├── raw
+│   └── cleaned
+│
+├── python
+│   ├── data_generation.ipynb
+│   └── cleaning_analysis.ipynb
+│
+├── sql
+│   └── business_queries.sql
+│
+├── excel
+│   └── sales_dashboard.xlsx
+│
+└── README.md
