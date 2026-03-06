@@ -43,6 +43,7 @@ The Excel dashboard includes:
 * Revenue breakdown by category and region
 * Top product category performance
 * Interactive slicers for filtering
+<<<<<<< HEAD
 
 
 
@@ -126,3 +127,5 @@ sales-analysis-project
 
 &nbsp;   └── insights\_summary.md
 
+=======
+>>>>>>> 6be17c48a67bb83e3af0c028c097e36b4c63efc1
