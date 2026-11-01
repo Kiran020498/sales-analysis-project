@@ -43,7 +43,6 @@ The Excel dashboard includes:
 * Revenue breakdown by category and region
 * Top product category performance
 * Interactive slicers for filtering
-<<<<<<< HEAD
 
 
 
