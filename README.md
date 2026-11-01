@@ -125,6 +125,3 @@ sales-analysis-project
 &nbsp;   ├── business\_questions.md
 
 &nbsp;   └── insights\_summary.md
-
-=======
->>>>>>> 6be17c48a67bb83e3af0c028c097e36b4c63efc1
